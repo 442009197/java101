@@ -1,9 +1,12 @@
 
 //Thamer Abdullah Almahabi
 //442009197
+//your grade is 4/5
 
+//@ place line 7 into line 1
 import java.util.Scanner;
 
+//@ change the class name to be Assignment1 ( golden rule )
 public class HW {
 
    public static void main(String[] args) {
